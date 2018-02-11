@@ -1,3 +1,4 @@
+#Brute-Force Implementation
 def longestPalindrome(x):
     from itertools import combinations
     if isPalindrome(x)==True:
